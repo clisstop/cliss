@@ -4,7 +4,7 @@
     <template v-if="adImg">
       <div class="banner-bg ad" v-if="adImg">
         <img :src="adImg" alt="ad">
-        <span>广告</span>
+        <span>广11告</span>
       </div>
     </template>
     <!-- Universal banner -->
